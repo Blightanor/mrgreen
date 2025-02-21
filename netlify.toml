@@ -1,3 +1,0 @@
-[build]
-  publish = "main"
-  command = "cp -r ../assets ./assets"  # Copy assets into main before deploying
